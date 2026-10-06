@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.unidad03"
+    namespace = "com.example.Ejercicio1"
     compileSdk {
         version = release(37)
     }
