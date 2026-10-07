@@ -1,4 +1,4 @@
-package Ejercicio2
+package com.example.Ejercicio1.Ejercicio2
 
 class Cuenta(
     var numeroCuenta: String = "",

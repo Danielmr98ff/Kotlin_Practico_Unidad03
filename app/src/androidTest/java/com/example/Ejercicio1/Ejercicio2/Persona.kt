@@ -1,4 +1,4 @@
-package Ejercicio2
+package com.example.Ejercicio1.Ejercicio2
 
 class Persona(string: String, string1: String, string2: String) {
     val nombre: String = ""

@@ -1,4 +1,4 @@
-package Ejercicio2
+package com.example.Ejercicio1.Ejercicio2
 
 fun main() {
     val persona1 = Persona("Carlos", "Gómez", "612345678")

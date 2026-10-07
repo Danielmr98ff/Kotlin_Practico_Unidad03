@@ -1,4 +1,4 @@
-package Ejercicio1
+package com.example.Ejercicio1.Ejercicio1
 
 fun main() {
 
