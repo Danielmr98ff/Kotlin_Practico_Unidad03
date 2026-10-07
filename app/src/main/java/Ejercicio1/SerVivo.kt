@@ -1,4 +1,4 @@
-package com.example.Ejercicio1
+package Ejercicio1
 
 open class SerVivo   (open val edad: Byte){
 

@@ -1,7 +1,9 @@
-package com.example.Ejercicio1
+package Ejercicio1
+
+
 
 class Humano (override val edad: Byte,
-    val nombre: String): SerVivo(edad) {
+              val nombre: String): SerVivo(edad) {
 
     override fun equals(other: Any?): Boolean{
 
